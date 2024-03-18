@@ -17,3 +17,4 @@ public:
     void SpacePirates(std::shared_ptr<Spaceship> Ship);
 };
 #endif //UNTITLED2_EVENT_H#pragma once
+
